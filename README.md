@@ -1,10 +1,14 @@
 ![Banner](https://media.istockphoto.com/id/1460602181/video/financial-graphs-and-papers-on-white-background.jpg?s=640x640&k=20&c=NnDF0rTCdvJeIwDxiDB4QSigNb2IEiTyKTtc7Oo4gxM=)
 <h1 align="center">Hi 👋, I'm Tshepang Oageng</h1>
-<h3 align="center">As an aspiring data analyst, I am passionate about the power of data to drive informed decision-making.</h3>
+<h3 align="center">As an aspiring data analyst, I am passionate about the power of data to drive informed decision-making. My goal is to contribute to data-driven solutions by uncovering patterns, trends, and correlations that can guide strategic business decisions. I am continuously expanding my skill set and staying updated with the latest tools and techniques in data analytics.</h3>
 <img align="right" alt="Coding" width="400" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tshepang244&label=Profile%20views&color=0e75b6&style=flat" alt="tshepang244" /> </p>
 
 <p align="left"> <a href="https://twitter.com/tshepangoageng" target="blank"><img src="https://img.shields.io/twitter/follow/tshepangoageng?logo=twitter&style=for-the-badge" alt="tshepangoageng" /></a> </p>
+
+- 🌱 I’m currently learning **Data Analytics**
+
+- 📫 How to reach me **tshepangoageng@gmail.com**
 
 - ⚡ Fun fact **I used to stutter**
 
