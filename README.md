@@ -1,4 +1,4 @@
-[![MasterHead](https://econsultancy.imgix.net/content/uploads/2020/04/06172949/Data-and-Analytics.jpg)]
+![MasterHead](https://econsultancy.imgix.net/content/uploads/2020/04/06172949/Data-and-Analytics.jpg)
 <h1 align="center">Hi 👋, I'm Tshepang Oageng</h1>
 <h3 align="center">As an aspiring data analyst, I am passionate about the power of data to drive informed decision-making. My goal is to contribute to data-driven solutions by uncovering patterns, trends, and correlations that can guide strategic business decisions. I am continuously expanding my skill set and staying updated with the latest tools and techniques in data analytics.</h3>
 <img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-2.gif">
