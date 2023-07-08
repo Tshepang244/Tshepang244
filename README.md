@@ -1,12 +1,10 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://tdwi.org/-/media/TDWI/TDWI/BITW/analytics7.jpg)
 <h1 align="center">Hi 👋, I'm Tshepang Oageng</h1>
 <h3 align="center">As an aspiring data analyst, I am passionate about the power of data to drive informed decision-making. My goal is to contribute to data-driven solutions by uncovering patterns, trends, and correlations that can guide strategic business decisions. I am continuously expanding my skill set and staying updated with the latest tools and techniques in data analytics.</h3>
-img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BndXRsdG42eDNjMnBzYzkwa3I0NGRmdGVqOHdoZzJ1M2Z1Y2NqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif
+img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-2.gif
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tshepang244&label=Profile%20views&color=0e75b6&style=flat" alt="tshepang244" /> </p>
 
 - 🌱 I’m currently learning **Data Analytics**
-
-- 👨‍💻 All of my projects are available at [https://tshepang244.github.io/tshepangoageng.github.io/](https://tshepang244.github.io/tshepangoageng.github.io/)
 
 - 📫 How to reach me **tshepangoageng@gmail.com**
 
@@ -27,3 +25,5 @@ img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tshepang244&show_icons=true&locale=en" alt="tshepang244" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tshepang244&" alt="tshepang244" /></p>
+
+
