@@ -1,10 +1,10 @@
 ![MasterHead](https://econsultancy.imgix.net/content/uploads/2020/04/06172949/Data-and-Analytics.jpg)
 <h1 align="center">Hi 👋, I'm Tshepang Oageng</h1>
-<h3 align="center">As an aspiring data analyst, I am passionate about the power of data to drive informed decision-making. My goal is to contribute to data-driven solutions by uncovering patterns, trends, and correlations that can guide strategic business decisions. I am continuously expanding my skill set and staying updated with the latest tools and techniques in data analytics.</h3>
+<h3 align="center">Reliable and detail-oriented IT Support professional with first-line support experience. Skilled in resolving everyday technical issues, providing clear assistance, and ensuring smooth user support. Strong troubleshooting, communication, and organisational skills with a focus on doing things right the first time. Enjoy working with data and exploring insights to drive better decisions.</h3>
 <img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tshepang244&label=Profile%20views&color=0e75b6&style=flat" alt="tshepang244" /> </p>
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning **Data Analytics**, **Comptia Network+**, **Comptia Security**,**CCNA**
 
 - 📫 How to reach me **tshepangoageng@gmail.com**
 
