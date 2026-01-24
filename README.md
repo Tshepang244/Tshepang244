@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tshepang244&label=Profile%20views&color=0e75b6&style=flat" alt="tshepang244" /> </p>
 
-- 🌱 I’m currently learning **Data Analytics**, **Software & Web Developmet**, **Comptia Network+**, **Comptia Security** ,**CCNA**
+- 🌱 I’m currently learning **Data Analytics**, **Software & Web Developmet**, **CompTIA Network+**, **CompTIA Security** & **CCNA**
 
 - 📫 How to reach me **tshepangoageng@gmail.com**
 
