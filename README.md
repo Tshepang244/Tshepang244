@@ -1,6 +1,6 @@
 ![MasterHead](https://econsultancy.imgix.net/content/uploads/2020/04/06172949/Data-and-Analytics.jpg)
 <h1 align="center">Hi 👋, I'm Tshepang Oageng</h1>
-<h3 align="center">Reliable and detail-oriented IT Support professional with first-line support experience. Skilled in resolving everyday technical issues, providing clear assistance, and ensuring smooth user support. Strong troubleshooting, communication, and organisational skills with a focus on doing things right the first time. Enjoy working with data and exploring insights to drive better decisions.</h3>
+<h3 align="center">Detail-oriented IT Support professional with first-line support experience. Skilled in troubleshooting hardware, software, and user access issues. Strong communication and organisational skills with a passion for data, automation, and continuous improvement.</h3>
 <img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tshepang244&label=Profile%20views&color=0e75b6&style=flat" alt="tshepang244" /> </p>
 
