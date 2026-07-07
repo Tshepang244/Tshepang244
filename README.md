@@ -70,9 +70,8 @@ Detail-oriented IT Service Desk Operator with experience providing first-line te
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tshepang244&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tshepang244&layout=compact&theme=tokyonight" />
 </p>
-
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=tshepang244&theme=tokyonight" />
 </p>
