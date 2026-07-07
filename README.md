@@ -1,27 +1,88 @@
 ![MasterHead](https://econsultancy.imgix.net/content/uploads/2020/04/06172949/Data-and-Analytics.jpg)
+
 <h1 align="center">Hi 👋, I'm Tshepang Oageng</h1>
-<h3 align="center">Detail-oriented IT Support professional with first-line support experience. Skilled in troubleshooting hardware, software, and user access issues. Strong communication and organisational skills with a passion for data, automation, and continuous improvement.</h3>
-<img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-2.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tshepang244&label=Profile%20views&color=0e75b6&style=flat" alt="tshepang244" /> </p>
 
-- 🌱 I’m currently learning **Data Analytics**, **Software & Web Developmet**, **CompTIA Network+**, **CompTIA Security+** & **CCNA**
+<h3 align="center">
+IT Service Desk Operator | IT First-Line Support | Aspiring Software Developer
+</h3>
 
-- 📫 How to reach me **tshepangoageng@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tshepangoageng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tshepangoageng" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tshepang-oageng-3033369a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tshepang-oageng-3033369a/" height="30" width="40" /></a>
-<a href="https://kaggle.com/tshepangoageng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tshepang oageng" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/tshepang.oageng?mibextid=lqqj4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tshepang.oageng?mibextid=lqqj4d" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tshepangoageng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tshepangoageng" height="30" width="40" /></a>
+<p align="center">
+Detail-oriented IT Service Desk Operator with experience providing first-line technical support, troubleshooting hardware, software, network, and user access issues. Passionate about software development, networking, cloud technologies, automation, and AI engineering. Continuously building real-world projects while expanding my skills in Python, JavaScript, Microsoft Azure, and Cisco networking.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-2.gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tshepang244&show_icons=true&locale=en&layout=compact" alt="tshepang244" /></p>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=tshepang244&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tshepang244&show_icons=true&locale=en" alt="tshepang244" /></p>
+## 🚀 Currently Learning
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tshepang244&" alt="tshepang244" /></p>
+- 💻 Full Stack Development
+- 🐍 Python
+- ☁️ Microsoft Azure (AZ-900 & AZ-700)
+- 🌐 CCNA
+- 🤖 AI Engineering
+- ⚡ Automation & Real-World Projects
+
+## 📫 Contact
+
+- 📧 **tshepangoageng@gmail.com**
+- 🌍 Portfolio: **https://tshepang-portfolio-three.vercel.app/**
+- 💼 LinkedIn: **https://www.linkedin.com/in/tshepang-oageng-3033369a/**
+
+## 🌐 Connect with Me
+
+<p align="left">
+
+<a href="https://github.com/Tshepang244" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tshepang-oageng-3033369a/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/tshepangoageng" target="_blank">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/tshepang.oageng" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/tshepangoageng" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</p>
+
+## 💻 Languages & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,python,mysql,git,github,vscode,linux,bash,azure" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=tshepang244&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tshepang244&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=tshepang244&theme=tokyonight" />
+</p>
+
+## 🏆 2026 Goals
+
+- ✅ Become a Full Stack Developer
+- ✅ Earn Microsoft AZ-900
+- ✅ Earn Microsoft AZ-700
+- ✅ Earn Cisco CCNA
+- ✅ Build real-world AI & Automation projects
+- ✅ Contribute to Open Source
+- ✅ Transition into Software Engineering
