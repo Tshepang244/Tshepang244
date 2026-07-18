@@ -1,65 +1,165 @@
+![MasterHead](https://econsultancy.imgix.net/content/uploads/2020/04/06172949/Data-and-Analytics.jpg)
+
 <h1 align="center">Hi 👋, I'm Tshepang Oageng</h1>
-<h3 align="center">IT Service Desk Operator | IT First-Line Support | Aspiring Software Developer</h3>
+
+<h3 align="center">
+Software Developer • AI Engineer • Cloud & Networking Enthusiast
+</h3>
+
 <p align="center">
-Detail-oriented IT Service Desk Operator with experience providing first-line technical support, troubleshooting hardware, software, network, and user access issues. Passionate about software development, networking, cloud technologies, automation, and AI engineering. Continuously building real-world projects while expanding my skills in Python, JavaScript, Microsoft Azure, and Cisco networking.
+Building AI-powered applications, automation tools, and modern web solutions while expanding my expertise in cloud computing, networking, and software engineering.
 </p>
-<img align="right" alt="Typing" width="400" src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif">
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=tshepang244&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-<br clear="right"/>
-🔥 Featured Project
-Sentinel QA — AI Service Desk Intelligence
-Full-stack AI-powered IT Service Desk QA platform built with React, Node.js, and MongoDB — analyzes ticket quality and surfaces insights for support teams.
-`React` `Vite` `Tailwind` `Node.js` `Express` `MongoDB`
-🚀 Currently Learning
-💻 Full Stack Development
-🐍 Python
-☁️ Microsoft Azure (AZ-900 & AZ-700)
-🌐 CCNA / CompTIA Network+ (N10-009)
-🤖 AI Engineering
-⚡ Automation & Real-World Projects
-📫 Contact
-📧 tshepangoageng@gmail.com
-🌍 Portfolio: https://tshepang-portfolio-three.vercel.app/
-💼 LinkedIn: https://www.linkedin.com/in/tshepang-oageng-3033369a/
-🌐 Connect with Me
-<p align="left">
-<a href="https://github.com/Tshepang244" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<p align="center">
+<a href="https://komarev.com/ghpvc/?username=Tshepang244">
+<img src="https://komarev.com/ghpvc/?username=Tshepang244&label=Profile%20Views&color=0e75b6&style=flat"/>
 </a>
-<a href="https://www.linkedin.com/in/tshepang-oageng-3033369a/" target="_blank">
+
+<a href="https://github.com/Tshepang244?tab=followers">
+<img src="https://img.shields.io/github/followers/Tshepang244?style=social"/>
+</a>
+
+<a href="https://github.com/Tshepang244">
+<img src="https://img.shields.io/github/stars/Tshepang244?affiliations=OWNER&style=social"/>
+</a>
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+I'm an IT professional from South Africa with experience in technical support and IT operations, currently transitioning into Software Engineering and AI Development.
+
+I enjoy solving real-world problems through code and building applications that automate business processes.
+
+### Currently focused on
+
+- 🤖 AI Agents
+- ⚡ Automation
+- 💻 Full Stack Development
+- ☁️ Microsoft Azure
+- 🌐 Networking & Cloud Infrastructure
+- 🧠 Python & JavaScript
+
+---
+
+# 🚀 Current Projects
+
+- 🤖 AI IT Service Desk Agent
+- 💰 AI Budget Assistant
+- 📊 Power BI Dashboards
+- 🌐 Personal Portfolio Website
+- ⚙️ Automation Projects
+
+---
+
+# 🌱 Currently Learning
+
+- Python
+- React
+- Node.js
+- Microsoft Azure (AZ-900 & AZ-700)
+- Cisco CCNA
+- AI Engineering
+- Prompt Engineering
+- REST APIs
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,mysql" />
+</p>
+
+### Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,vite" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=azure,git,github,bash,linux,vscode" />
+</p>
+
+### Currently Exploring
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker" />
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tshepang244&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tshepang244&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Tshepang244&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 2026 Roadmap
+
+- ✅ Build Production AI Applications
+- 🎯 Earn Microsoft AZ-900
+- 🎯 Earn Microsoft AZ-700
+- 🎯 Earn Cisco CCNA
+- 🚀 Launch Multiple SaaS Projects
+- 🤝 Contribute to Open Source
+- 💼 Land a Software Engineering / AI Engineering Role
+
+---
+
+# 🌍 Connect With Me
+
+<p align="left">
+
+<a href="https://tshepang-portfolio-three.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tshepang-oageng-3033369a/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://www.kaggle.com/tshepangoageng" target="_blank">
+
+<a href="https://github.com/Tshepang244">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.kaggle.com/tshepangoageng">
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
-<a href="https://www.facebook.com/tshepang.oageng" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-<a href="https://www.hackerrank.com/tshepangoageng" target="_blank">
+
+<a href="https://www.hackerrank.com/tshepangoageng">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
+
 </p>
-💻 Languages & Tools
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,python,mysql,git,github,vscode,linux,bash,azure" />
-</p>
-📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tshepang244&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tshepang244&layout=compact&theme=tokyonight" />
-</p>
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=tshepang244&theme=tokyonight" />
-</p>
-🏆 2026 Goals
-⬜ Become a Full Stack Developer
-⬜ Earn Microsoft AZ-900
-⬜ Earn Microsoft AZ-700
-⬜ Earn Cisco CCNA
-⬜ Build real-world AI & Automation projects
-⬜ Contribute to Open Source
-⬜ Transition into Software Engineering
+
+---
+
+## 📫 Contact
+
+📧 **tshepangoageng@gmail.com**
+
+🌍 **Portfolio**
+https://tshepang-portfolio-three.vercel.app
+
+💼 **LinkedIn**
+https://linkedin.com/in/tshepang-oageng-3033369a
+
+---
+
+> *"Always building. Always learning. Always shipping."* 🚀
