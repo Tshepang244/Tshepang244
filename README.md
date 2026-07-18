@@ -1,84 +1,79 @@
-````markdown
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="Coding Banner"/>
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Tshepang Oageng</h1>
+# 👋 Hi, I'm Tshepang Oageng
 
-<h3 align="center">
-IT Support | Automation | AI | Cloud
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=850&lines=Software+Developer;AI+Engineer;Cloud+%26+Automation+Enthusiast;Building+Real-World+AI+Applications;Always+Building.+Always+Learning." />
 
-<p align="center">
-I'm an IT Service Desk Operator passionate about automation, artificial intelligence, cloud computing, networking, and building real-world projects.
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Tshepang244&label=Profile%20Views&color=0e75b6&style=flat" />
-
-<img src="https://img.shields.io/github/followers/Tshepang244?style=social"/>
-
-<img src="https://img.shields.io/github/stars/Tshepang244?affiliations=OWNER&style=social"/>
-</p>
+</div>
 
 ---
 
-# 👨‍💻 About Me
+<div align="center">
+
+### 🚀 Building intelligent software that solves real-world problems.
+
+🇿🇦 South Africa • 💻 Software Engineering • 🤖 AI • ☁️ Azure • 🌐 Networking
+
+</div>
+
+---
+
+# 💫 About Me
 
 ```yaml
-Name: Tshepang Oageng
+name: Tshepang Oageng
 
-Current Role:
-  IT Service Desk Operator
+role:
+  - Software Developer
+  - AI Engineer
 
-Location:
-  South Africa 🇿🇦
+currently_building:
+  - AI Agents
+  - AI Budget App
+  - Automation Tools
+  - Full Stack Applications
 
-Passionate About:
-  - Automation
+currently_learning:
+  - Python
+  - React
+  - Node.js
+  - Azure
+  - Cisco CCNA
+  - Docker
+
+interests:
   - Artificial Intelligence
   - Cloud Computing
   - Networking
-  - Full-Stack Development
-
-Current Goal:
-  Build practical projects and transition into a Software Engineering or AI-focused role.
+  - Automation
+  - Open Source
 ```
 
 ---
 
-# 🚀 Current Focus
+# 🚀 Featured Projects
 
-- 🤖 AI Applications & AI Agents
-- ⚡ Automation with Python & JavaScript
-- ☁️ Microsoft Azure
-- 🌐 Cisco Networking (CCNA)
-- 💻 Full-Stack Development
-- 📈 Building an impressive developer portfolio
-
----
-
-# 🌱 Currently Learning
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,azure,docker,git,github,vscode"/>
-
-</p>
+| Project | Tech | Status |
+|----------|------|--------|
+| 🤖 AI IT Service Desk Agent | React • Node • OpenAI | 🚀 Active |
+| 💰 AI Budget App | React • Python | 🚀 Building |
+| 📊 Power BI Dashboards | Power BI • SQL | ✅ Complete |
+| 🌐 Portfolio Website | HTML • CSS • JavaScript | ✅ Live |
+| ⚡ Automation Scripts | Python | 🚀 Active |
 
 ---
 
-# 💻 Tech Stack
+# ⚡ Tech Stack
 
 ### Languages
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,mysql"/>
 
 </p>
 
-### Frameworks & Tools
+### Frameworks
 
 <p align="center">
 
@@ -86,35 +81,34 @@ Current Goal:
 
 </p>
 
-### Cloud & Infrastructure
+### Cloud & DevOps
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=azure,linux,bash,docker,git,github"/>
+<img src="https://skillicons.dev/icons?i=azure,git,github,docker,linux,bash,vscode"/>
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🎯 Current Focus
 
-| Project | Description |
-|----------|-------------|
-| 🤖 AI IT Service Desk Agent | AI-powered technical support assistant |
-| 💰 AI Budget App | Personal finance assistant |
-| 📊 Power BI Dashboards | Interactive business intelligence dashboards |
-| 🌐 Portfolio Website | Personal developer portfolio |
-| ⚡ Automation Scripts | Python & JavaScript automation |
+- 🤖 AI Agents
+- 🧠 LLM Applications
+- ⚡ Automation
+- ☁️ Azure Cloud
+- 🌐 Cisco Networking
+- 🚀 Full Stack Development
 
 ---
 
-# 📊 GitHub Statistics
+# 📈 GitHub Statistics
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tshepang244&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tshepang244&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tshepang244&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tshepang244&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -130,11 +124,11 @@ Current Goal:
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tshepang244&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tshepang244&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -144,7 +138,7 @@ Current Goal:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Tshepang244&theme=tokyonight&column=4&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Tshepang244&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
 </p>
 
@@ -152,22 +146,22 @@ Current Goal:
 
 # 🎯 2026 Goals
 
-- 🎯 Earn Microsoft AZ-900
-- 🎯 Earn Microsoft AZ-700
-- 🎯 Earn Cisco CCNA
-- 🤖 Build Production AI Applications
-- ⚡ Build More Automation Projects
-- 🤝 Contribute to Open Source
-- 💼 Transition into Software Engineering / AI
+- ✅ Build Production AI Applications
+- 🎯 Microsoft AZ-900
+- 🎯 Microsoft AZ-700
+- 🎯 Cisco CCNA
+- 🚀 Launch SaaS Products
+- 🤝 Open Source Contributions
+- 💼 Software Engineer Role
 
 ---
 
-# 🌐 Connect With Me
+# 🌍 Connect With Me
 
 <p align="center">
 
 <a href="https://tshepang-portfolio-three.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/tshepang-oageng-3033369a">
@@ -190,27 +184,12 @@ Current Goal:
 
 ---
 
-# 📫 Contact
+<div align="center">
 
-📧 **Email:** tshepangoageng@gmail.com
+## 💡 Quote
 
-🌍 **Portfolio:** https://tshepang-portfolio-three.vercel.app
+> **"Always Building • Always Learning • Always Shipping."**
 
-💼 **LinkedIn:** https://www.linkedin.com/in/tshepang-oageng-3033369a
+<img src="https://komarev.com/ghpvc/?username=Tshepang244&label=Visitors&color=0e75b6&style=flat"/>
 
----
-
-<p align="center">
-
-## 💡 Motto
-
-### *"Learning every day. Building with purpose."*
-
-</p>
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=IT+Service+Desk+Operator;Automation+Enthusiast;AI+Learner;Cloud+Explorer;Always+Building.+Always+Learning."/>
-
-</p>
-````
+</div>
